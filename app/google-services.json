@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087763449482",
+    "project_id": "project--4469990663547956291"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087763449482:android:38b7053b50df60a6",
+        "android_client_info": {
+          "package_name": "ng.com.tinweb.www.googleloginproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087763449482-j18tfot972tmup2trvjjgs5enehto9ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.tinweb.www.googleloginproject",
+            "certificate_hash": "FEAA18C44DE209E9DD06117C582B33DD764B0D39"
+          }
+        },
+        {
+          "client_id": "1087763449482-3sro7c18mj3m5kf4l8fel9l9cgh8m06n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARni90pcCuSJ1PY9YNlsJiIPPcQRe8j4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
